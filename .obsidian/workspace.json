@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f1bb782e184a90",
+        "id": "f3d45277bba2b7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "2edc4fb0e48b8d13",
+            "id": "0f9987dacd71ed49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бестиарий/Волк.md",
+                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Волк"
+              "title": "Глава 1. Опасное  путешествие"
             }
           }
         ]
@@ -168,6 +168,26 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "5cb494997423da8e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "cdb3bfac7c759a28",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -209,12 +229,17 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2edc4fb0e48b8d13",
+  "active": "0f9987dacd71ed49",
   "lastOpenFiles": [
+    "НПС/Силдар Холлвинтер.md",
+    "НПС/Гандрит Роксикер.md",
+    "Бестиарий/Босс гоблинов.md",
+    "Бестиарий/Гоблин.md",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
     "Бестиарий/Медвежатник.md",
     "Бестиарий/Волк.md",
-    "Бестиарий/Гоблин.md",
-    "Бестиарий/Босс гоблинов.md",
+    "НПС",
+    "Фанделвер и ниже Разрушенный обелиск",
     "Без названия.md",
     "Запись ходов боя/1750420647194 - Combat.md",
     "Персонажи/Данил.md",
@@ -238,8 +263,6 @@
     "Templates/Бой/Вставить Линейный Бой.md",
     "Templates/Бой",
     "Templates",
-    "Бестиарий",
-    "Без названия 1",
-    "img"
+    "Бестиарий"
   ]
 }
