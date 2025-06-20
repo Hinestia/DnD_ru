@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "1aa09f7688c8a1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f1bb782e184a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2edc4fb0e48b8d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бестиарий/Волк.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Волк"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f605f70a3870ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "261fc0a36647bbf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1529eb4106c4ce56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a6ccf7221f6a9c71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "87890c5773628c58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "7e217201dcb51bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "125d03db987ad5a9",
+        "type": "tabs",
+        "dimension": 57.07364341085272,
+        "children": [
+          {
+            "id": "5277e0418eaf97b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "8c05b7651a310083",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "458a6574c4a7e759",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a9a6b65fea3672cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          },
+          {
+            "id": "630dde99bf184f49",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "3592169b6afe5347",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5486e46f91c465a8",
+        "type": "tabs",
+        "dimension": 42.92635658914728,
+        "children": [
+          {
+            "id": "64f4d848da85ef1d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "2edc4fb0e48b8d13",
+  "lastOpenFiles": [
+    "Бестиарий/Медвежатник.md",
+    "Бестиарий/Волк.md",
+    "Бестиарий/Гоблин.md",
+    "Бестиарий/Босс гоблинов.md",
+    "Без названия.md",
+    "Запись ходов боя/1750420647194 - Combat.md",
+    "Персонажи/Данил.md",
+    "Запись ходов боя/1750422856716 - Combat.md",
+    "Без названия 1/Добро пожаловать.md",
+    "Templates/Бой/Вставить Несколько Боёв Таблиц.md",
+    "Templates/Бой/Вставить Случайную Таблицу Боя.md",
+    "Templates/Монстры/Basic 5e Layout RU 1.json",
+    "Templates/Бой/Вставить несколько Боёв.md",
+    "Templates/Монстры/Вставить обычного монстра.md",
+    "Templates/Монстры/Вставить монстра.md",
+    "Templates/Монстры/Basic 5e Layout RU.json",
+    "Templates/Монстры/Вставить легендарного монстра.md",
+    "Templates/Монстры",
+    "Templates/Бой/Вставить Бой.md",
+    "Персонажи/Спартак.md",
+    "Запись ходов боя",
+    "Персонажи/Дима.md",
+    "Персонажи",
+    "Templates/Бой/Вставить Бой Таблица.md",
+    "Templates/Бой/Вставить Линейный Бой.md",
+    "Templates/Бой",
+    "Templates",
+    "Бестиарий",
+    "Без названия 1",
+    "img"
+  ]
+}
