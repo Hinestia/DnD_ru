@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d45277bba2b7fb",
+        "id": "ad203128d6ccce12",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9987dacd71ed49",
+            "id": "3c6ad006c250fa72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,86 +90,18 @@
         "dimension": 57.07364341085272,
         "children": [
           {
-            "id": "5277e0418eaf97b2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Без названия.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
-            }
-          },
-          {
-            "id": "8c05b7651a310083",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Без названия.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
-            }
-          },
-          {
-            "id": "458a6574c4a7e759",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
             "id": "a9a6b65fea3672cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
-            }
-          },
-          {
-            "id": "630dde99bf184f49",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "3592169b6afe5347",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "title": "Структура Глава 1. Опасное  путешествие"
             }
           },
           {
@@ -191,9 +123,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "4cbeee88d7490f8f",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5486e46f91c465a8",
@@ -214,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,23 +168,42 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "0f9987dacd71ed49",
+  "active": "3c6ad006c250fa72",
   "lastOpenFiles": [
-    "НПС/Силдар Холлвинтер.md",
-    "НПС/Гандрит Роксикер.md",
-    "Бестиарий/Босс гоблинов.md",
-    "Бестиарий/Гоблин.md",
     "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
-    "Бестиарий/Медвежатник.md",
+    "img/Карта материка.jpg",
+    "img",
+    "pixel-banner-images/98515a47af3a813f3361bf6cca412080.jpg",
+    "Карта/Без названия.md",
+    "Templates/Новая карта (Leaflet).md",
+    "Карта",
+    "НПС/Гандрит Роксикер.md",
+    "НПС/Силдар Холлвинтер.md",
+    "Персонажи/Данил.md",
+    "Персонажи/Дима.md",
+    "Персонажи/Спартак.md",
+    "Бестиарий/Босс гоблинов.md",
     "Бестиарий/Волк.md",
+    "Бестиарий/Гоблин.md",
+    "Бестиарий/Медвежатник.md",
+    "pixel-banner-images/Dungeons--Dragons-Dungeon-Master-Tips-For-Making-Travel-Interesting-1.jpg",
+    "pixel-banner-images/e83432765c496bb5ea89df3ff4148307.jpg",
+    "pixel-banner-images/maxresdefault.jpg",
+    "pixel-banner-images/d2e7feb76fda47a77d0c404afe4912e5.png",
+    "pixel-banner-images/c8269c5d8631f0081b84de0e481542bb.jpg",
+    "pixel-banner-images/i.webp",
+    "pixel-banner-images/0540740bc80134493456303e36b8fe04.jpg",
+    "pixel-banner-images/adf25d4cd6a8be78b958498d61a4a241--vii-knight.jpg",
+    "pixel-banner-images",
     "НПС",
     "Фанделвер и ниже Разрушенный обелиск",
     "Без названия.md",
     "Запись ходов боя/1750420647194 - Combat.md",
-    "Персонажи/Данил.md",
     "Запись ходов боя/1750422856716 - Combat.md",
     "Без названия 1/Добро пожаловать.md",
     "Templates/Бой/Вставить Несколько Боёв Таблиц.md",
@@ -255,14 +216,9 @@
     "Templates/Монстры/Вставить легендарного монстра.md",
     "Templates/Монстры",
     "Templates/Бой/Вставить Бой.md",
-    "Персонажи/Спартак.md",
     "Запись ходов боя",
-    "Персонажи/Дима.md",
     "Персонажи",
     "Templates/Бой/Вставить Бой Таблица.md",
-    "Templates/Бой/Вставить Линейный Бой.md",
-    "Templates/Бой",
-    "Templates",
-    "Бестиарий"
+    "Templates/Бой/Вставить Линейный Бой.md"
   ]
 }
