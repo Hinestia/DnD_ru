@@ -1,5 +1,65 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Гоблинская_засада",
+      "lastAccessed": 1750605537961,
+      "markers": [
+        {
+          "id": "ID_0abb3a484938",
+          "type": "default",
+          "loc": [
+            392.625,
+            741.9804784688995
+          ],
+          "layer": "%5B%5B%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D1%81%D0%B0%D0%B4%D0%B0.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Гоблин лучник",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a818e9aa1bcb",
+          "type": "default",
+          "loc": [
+            117.625,
+            741.9804784688995
+          ],
+          "layer": "%5B%5B%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D1%81%D0%B0%D0%B4%D0%B0.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Гоблин",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9afaea087b9b",
+          "type": "default",
+          "loc": [
+            114.625,
+            793.9705263157894
+          ],
+          "layer": "%5B%5B%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D1%81%D0%B0%D0%B4%D0%B0.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Гоблин ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

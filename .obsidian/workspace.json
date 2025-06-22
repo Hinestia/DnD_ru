@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad203128d6ccce12",
+        "id": "c045a3cc1b613466",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6ad006c250fa72",
+            "id": "2d1ce76782d4550d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
-                "mode": "preview",
+                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Убежище Крагмау.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Опасное  путешествие"
+              "title": "Глава 1.2. Убежище Крагмау"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 247.5
   },
   "right": {
     "id": "7e217201dcb51bc8",
@@ -87,7 +87,7 @@
       {
         "id": "125d03db987ad5a9",
         "type": "tabs",
-        "dimension": 57.07364341085272,
+        "dimension": 55.89080459770114,
         "children": [
           {
             "id": "a9a6b65fea3672cc",
@@ -133,6 +133,54 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "d58faf027695b295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Глава 1.1. Битва против гоблинов возле повозки"
+            }
+          },
+          {
+            "id": "96d32ca1a82f4909",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Глава 1.1. Битва против гоблинов возле повозки"
+            }
+          },
+          {
+            "id": "6aaa88ef018ee587",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
           }
         ],
         "currentTab": 3
@@ -140,7 +188,7 @@
       {
         "id": "5486e46f91c465a8",
         "type": "tabs",
-        "dimension": 42.92635658914728,
+        "dimension": 44.10919540229886,
         "children": [
           {
             "id": "64f4d848da85ef1d",
@@ -156,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +221,34 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "3c6ad006c250fa72",
+  "active": "2d1ce76782d4550d",
   "lastOpenFiles": [
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
+    "Material/img/pixel-banner-images/chris-joshua-saldon-goblin-ambush-attack-final-copy.jpg",
     "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
-    "img/Карта материка.jpg",
-    "img",
-    "pixel-banner-images/98515a47af3a813f3361bf6cca412080.jpg",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Новое начало без одежды.md",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Убежище Крагмау.md",
+    "Фразы/Фразы гоблина к главе 1.1.md",
+    "Фразы/Что знают Каменные Пасти к главе 1.1.md",
+    "Material/img/pixel-banner-images/240ef82cd95d9b622b52f9545512301e.jpg",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1.3. Победа игроков и захват гоблина.md",
+    "Фразы",
+    "Material/img/pixel-banner-images/WorkshopImageUpload.png",
+    "Material/img/Гоблинская засада.jpg",
+    "Material/video/D&D adventure music 1.mp4",
+    "Material/video/D&D tavern music 1.mp4",
+    "Material/video/D&D adventure music 2.mp4",
+    "Material/video/D&D adventure music 3.mp4",
+    "Material/video/D&D battle music 2.mp4",
+    "Material/video/D&D battle music 1.mp4",
+    "Material/video/D&D tavern music 3.mp4",
+    "Material/img/pixel-banner-images/0540740bc80134493456303e36b8fe04.jpg",
+    "Material/img/pixel-banner-images/98515a47af3a813f3361bf6cca412080.jpg",
+    "Material/video/D&D tavern music 2.mp4",
+    "Material",
+    "Material/img/Карта материка.jpg",
     "Карта/Без названия.md",
     "Templates/Новая карта (Leaflet).md",
-    "Карта",
     "НПС/Гандрит Роксикер.md",
     "НПС/Силдар Холлвинтер.md",
     "Персонажи/Данил.md",
@@ -191,34 +258,15 @@
     "Бестиарий/Волк.md",
     "Бестиарий/Гоблин.md",
     "Бестиарий/Медвежатник.md",
-    "pixel-banner-images/Dungeons--Dragons-Dungeon-Master-Tips-For-Making-Travel-Interesting-1.jpg",
-    "pixel-banner-images/e83432765c496bb5ea89df3ff4148307.jpg",
-    "pixel-banner-images/maxresdefault.jpg",
-    "pixel-banner-images/d2e7feb76fda47a77d0c404afe4912e5.png",
-    "pixel-banner-images/c8269c5d8631f0081b84de0e481542bb.jpg",
-    "pixel-banner-images/i.webp",
-    "pixel-banner-images/0540740bc80134493456303e36b8fe04.jpg",
-    "pixel-banner-images/adf25d4cd6a8be78b958498d61a4a241--vii-knight.jpg",
-    "pixel-banner-images",
-    "НПС",
-    "Фанделвер и ниже Разрушенный обелиск",
-    "Без названия.md",
+    "Material/img/pixel-banner-images/Dungeons--Dragons-Dungeon-Master-Tips-For-Making-Travel-Interesting-1.jpg",
+    "Material/img/pixel-banner-images/e83432765c496bb5ea89df3ff4148307.jpg",
+    "Material/img/pixel-banner-images/maxresdefault.jpg",
     "Запись ходов боя/1750420647194 - Combat.md",
     "Запись ходов боя/1750422856716 - Combat.md",
     "Без названия 1/Добро пожаловать.md",
     "Templates/Бой/Вставить Несколько Боёв Таблиц.md",
     "Templates/Бой/Вставить Случайную Таблицу Боя.md",
-    "Templates/Монстры/Basic 5e Layout RU 1.json",
     "Templates/Бой/Вставить несколько Боёв.md",
-    "Templates/Монстры/Вставить обычного монстра.md",
-    "Templates/Монстры/Вставить монстра.md",
-    "Templates/Монстры/Basic 5e Layout RU.json",
-    "Templates/Монстры/Вставить легендарного монстра.md",
-    "Templates/Монстры",
-    "Templates/Бой/Вставить Бой.md",
-    "Запись ходов боя",
-    "Персонажи",
-    "Templates/Бой/Вставить Бой Таблица.md",
-    "Templates/Бой/Вставить Линейный Бой.md"
+    "Templates/Монстры/Вставить обычного монстра.md"
   ]
 }

@@ -1,5 +1,9 @@
 {
   "attachmentFolderPath": "img",
   "livePreview": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": false,
+  "smartIndentList": true
 }
