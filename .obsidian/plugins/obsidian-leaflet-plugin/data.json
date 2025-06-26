@@ -1,8 +1,51 @@
 {
   "mapMarkers": [
     {
+      "id": "Карта_материка",
+      "lastAccessed": 1750744014060,
+      "markers": [
+        {
+          "id": "ID_8baba9aa6928",
+          "type": "default",
+          "loc": [
+            519.6792899982883,
+            293.7554991261617
+          ],
+          "layer": "%5B%5B%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B0.jpg%7C%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da1928b978d9",
+          "type": "default",
+          "loc": [
+            487.5280285412125,
+            299.9661253960715
+          ],
+          "layer": "%5B%5B%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B0.jpg%7C%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md"
+      ]
+    },
+    {
       "id": "Гоблинская_засада",
-      "lastAccessed": 1750605537961,
+      "lastAccessed": 1750744024905,
       "markers": [
         {
           "id": "ID_0abb3a484938",
