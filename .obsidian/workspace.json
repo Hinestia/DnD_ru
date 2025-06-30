@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
-                "mode": "source",
+                "file": "Бестиарий/Гарпия.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Драконий Покой"
+              "title": "Гарпия"
             }
           },
           {
@@ -33,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "Глава 1. Опасное  путешествие"
+            }
+          },
+          {
+            "id": "406ca267c6edb0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -218,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 229.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,22 +248,29 @@
   },
   "active": "6b77d155353eb402",
   "lastOpenFiles": [
-    "Драконы Острова Штормокрушений/Глава 0 Путешествие к острову Штормокрушений.md",
+    "Бестиарий/Упырь.md",
+    "Бестиарий/Гарпия.md",
+    "Бестиарий/Дымный дрейк.md",
+    "Бестиарий/Огненная змея.md",
+    "Бестиарий/Вирмлинг синего дракона.md",
+    "Бестиарий/Вирмлинг бронзового дракона.md",
+    "Бестиарий/Взрослый бронзовый дракон.md",
+    "Бестиарий/Волк.md",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
+    "Бестиарий/Босс гоблинов.md",
+    "НПС/Рунара.md",
+    "Бестиарий/Гоблин.md",
     "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
-    "Бестиарий/Мерроу.md",
+    "Драконы Острова Штормокрушений/Глава 0 Путешествие к острову Штормокрушений.md",
+    "Бестиарий/Мерроу-вымогатель.md",
     "Бестиарий/Медвежатник.md",
     "Material/img/pixel-banner-images/2eab6d15d865d5bd64714480656316d6.jpg",
-    "Бестиарий/Босс гоблинов.md",
-    "Бестиарий/Гоблин.md",
-    "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
     "Material/img/pixel-banner-images/Acque-nere-sfondo.jpg",
     "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Убежище Крагмау.md",
-    "НПС/Рунара.md",
     "НПС/Гандрит Роксикер.md",
     "Фразы/Фразы гоблина к главе 1.1.md",
     "Material/img/pixel-banner-images/production_images_ac961ac2-2863-4a43-af05-9c9274af12cf.png",
     "НПС/Силдар Холлвинтер.md",
-    "Бестиарий/Волк.md",
     "Бестиарий/Рунара.md",
     "Material/img/pixel-banner-images/dnd-dragons-of-stormwreck-isle-review-dragon-meets-party.jpg",
     "Без названия.md",
@@ -266,7 +284,6 @@
     "Material/img/Убежище Каменной Пасти.png",
     "Material/img/pixel-banner-images/chris-joshua-saldon-goblin-ambush-attack-final-copy.jpg",
     "Material/img/pixel-banner-images/240ef82cd95d9b622b52f9545512301e.jpg",
-    "Фанделвер и ниже Разрушенный обелиск/Глава 1.3. Победа игроков и захват гоблина.md",
     "Фразы",
     "Material/img/pixel-banner-images/WorkshopImageUpload.png",
     "Material/img/Гоблинская засада.jpg",
@@ -276,11 +293,6 @@
     "Material/video/D&D battle music 2.mp4",
     "Material/video/D&D tavern music 3.mp4",
     "Material/img/pixel-banner-images/0540740bc80134493456303e36b8fe04.jpg",
-    "Material/video/D&D tavern music 2.mp4",
-    "Карта/Без названия.md",
-    "Templates/Новая карта (Leaflet).md",
-    "Персонажи/Данил.md",
-    "Персонажи/Дима.md",
-    "Персонажи/Спартак.md"
+    "Material/video/D&D tavern music 2.mp4"
   ]
 }
