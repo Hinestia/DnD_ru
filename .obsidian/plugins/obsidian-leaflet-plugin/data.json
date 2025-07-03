@@ -101,6 +101,74 @@
       "files": [
         "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md"
       ]
+    },
+    {
+      "id": "Пристань_острова_штормокрушения",
+      "lastAccessed": 1751571103324,
+      "markers": [
+        {
+          "id": "ID_e83ad8dbe989",
+          "type": "default",
+          "loc": [
+            212.13203435596424,
+            245.367832542945
+          ],
+          "layer": "%5B%5B%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D1%88%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.3335208290377445,
+            -1.537188654753364
+          ],
+          "description": "Зомби",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab0a59f9aa59",
+          "type": "default",
+          "loc": [
+            200.81832585697947,
+            159.10639786199852
+          ],
+          "layer": "%5B%5B%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D1%88%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8647086840326006,
+            -1.4552052598331846
+          ],
+          "description": "Зомби",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_080ba8987b39",
+          "type": "default",
+          "loc": [
+            228.39549032325485,
+            290.62069641004103
+          ],
+          "layer": "%5B%5B%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%20%D1%88%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.57946030657631,
+            -1.655039784951122
+          ],
+          "description": "Зомби",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md"
+      ]
     }
   ],
   "defaultMarker": {

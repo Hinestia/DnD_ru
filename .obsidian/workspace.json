@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "36ee4b2be5520f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
                 "mode": "preview",
                 "source": true
@@ -109,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Драконы Острова Штормокрушений/Глава 0 Путешествие к острову Штормокрушений.md",
+                "file": "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Глава 0 Путешествие к острову Штормокрушений"
+              "title": "Структура Глава 1. Драконий Покой"
             }
           },
           {
@@ -129,23 +115,17 @@
             }
           },
           {
-            "id": "cdb3bfac7c759a28",
+            "id": "96d32ca1a82f4909",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "4cbeee88d7490f8f",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Глава 1. Драконий Покой"
             }
           },
           {
@@ -154,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
+                "file": "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,40 +144,21 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Глава 1.1. Битва против гоблинов возле повозки"
+              "title": "Обратные ссылки для Глава 1. Драконий Покой"
             }
           },
           {
-            "id": "96d32ca1a82f4909",
+            "id": "a7cb4390cd2080a4",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Глава 1.1. Битва против гоблинов возле повозки"
-            }
-          },
-          {
-            "id": "6aaa88ef018ee587",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "5486e46f91c465a8",
@@ -218,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,42 +198,40 @@
   },
   "active": "406ca267c6edb0c5",
   "lastOpenFiles": [
-    "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
-    "Без названия.md",
-    "Material/img/Драконий покой.jpg",
-    "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
-    "Драконы Острова Штормокрушений/Глава 0 Путешествие к острову Штормокрушений.md",
+    "Material/img/Пристань острова штормокрушения.jpg",
     "Фанделвер и ниже Разрушенный обелиск/Глава 1.1. Битва против гоблинов возле повозки.md",
-    "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Новое начало без одежды.md",
-    "Персонажи/Спартак.md",
-    "Персонажи/Данил.md",
-    "Персонажи/Дима.md",
-    "Бестиарий/Зомби.md",
-    "НПС/Рунара.md",
-    "НПС/Силдар Холлвинтер.md",
-    "НПС/Гандрит Роксикер.md",
-    "Бестиарий/Взрослый бронзовый дракон.md",
-    "Запись ходов боя/1750420647194 - Combat.md",
-    "Запись ходов боя/1750422856716 - Combat.md",
-    "Фанделвер и ниже Разрушенный обелиск/Глава 1.2. Убежище Крагмау.md",
+    "Драконы Острова Штормокрушений/Глава 1. Драконий Покой.md",
+    "Драконы Острова Штормокрушений/Глава 0 Путешествие к острову Штормокрушений.md",
+    "Фанделвер и ниже Разрушенный обелиск/Глава 1. Опасное  путешествие.md",
+    "Material/img/Остров шторомокрушений.jpg",
+    "Material/img/Карта материка.jpg",
+    "Material/img/Гоблинская засада.jpg",
+    "Material/img/Драконий покой.jpg",
     "Бестиарий/Упырь.md",
-    "Material/img/pixel-banner-images/upir.webp",
     "Бестиарий/Тарак.md",
-    "Material/img/pixel-banner-images/Tarak.webp",
-    "Бестиарий/Споровый слуга-осьминог.md",
-    "Material/img/pixel-banner-images/sporoviyslyga.webp",
     "Бестиарий/Совомедведь.md",
-    "Material/img/pixel-banner-images/sovomedved.webp",
+    "Бестиарий/Споровый слуга-осьминог.md",
     "Бестиарий/Синенса.md",
-    "Material/img/pixel-banner-images/sinesa.webp",
     "Бестиарий/Росток миконида.md",
-    "Material/img/pixel-banner-images/rostokmikonida.webp",
     "Бестиарий/Огненная змея.md",
-    "Material/img/pixel-banner-images/ad48fad6360f0b1731f130efb46b8b60.jpg",
     "Бестиарий/Мерроу-вымогатель.md",
-    "Бестиарий/Медвежатник.md",
-    "Material/img/pixel-banner-images/liloviygrib.webp",
-    "Material/img/pixel-banner-images/f93fe548095a6951608bf2e5af9a49c5.jpg",
+    "Бестиарий/Лиловый гриб.md",
+    "Бестиарий/Крылатый кобольд.md",
+    "Бестиарий/Кровопийца.md",
+    "Бестиарий/Кобольд-механик.md",
+    "Бестиарий/Кобольд.md",
+    "Бестиарий/Гоблин.md",
+    "Бестиарий/Гарпия.md",
+    "Бестиарий/Волк.md",
+    "Бестиарий/Вирмлинг синего дракона.md",
+    "Бестиарий/Вирмлинг бронзового дракона.md",
+    "Бестиарий/Взрослый миконид.md",
+    "Бестиарий/Взрослый бронзовый дракон.md",
+    "Бестиарий/Варнот.md",
+    "Material/img/pixel-banner-images/upir.webp",
+    "Material/img/pixel-banner-images/Tarak.webp",
+    "Material/img/pixel-banner-images/sporoviyslyga.webp",
+    "Material/img/pixel-banner-images/sovomedved.webp",
     "Драконы Острова Штормокрушений",
     "Material/video/D&D battle music 1.mp4",
     "Material/video/D&D adventure music 1.mp4",
